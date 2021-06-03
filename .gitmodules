@@ -7,3 +7,6 @@
 [submodule "pack/other/start/vim-terraform.git"]
 	path = pack/other/start/vim-terraform.git
 	url = https://github.com/hashivim/vim-terraform.git
+[submodule "pack/other/start/surround"]
+	path = pack/other/start/surround
+	url = https://tpope.io/vim/surround.git
