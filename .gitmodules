@@ -13,3 +13,6 @@
 [submodule "pack/other/start/vim-vinegar"]
 	path = pack/other/start/vim-vinegar
 	url = https://github.com/tpope/vim-vinegar.git
+[submodule "pack/other/start/vim-easy-align"]
+	path = pack/other/start/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
