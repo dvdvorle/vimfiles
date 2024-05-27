@@ -16,3 +16,6 @@
 [submodule "pack/other/start/vim-easy-align"]
 	path = pack/other/start/vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align
+[submodule "pack/other/start/vim-bicep"]
+	path = pack/other/start/vim-bicep
+	url = https://github.com/carlsmedstad/vim-bicep.git
