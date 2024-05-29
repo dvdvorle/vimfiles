@@ -19,3 +19,9 @@
 [submodule "pack/other/start/vim-bicep"]
 	path = pack/other/start/vim-bicep
 	url = https://github.com/carlsmedstad/vim-bicep.git
+[submodule "pack/plugins/start/vim-test"]
+	path = pack/plugins/start/vim-test
+	url = https://github.com/vim-test/vim-test
+[submodule "pack/plugins/start/omnisharp-vim"]
+	path = pack/plugins/start/omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim
